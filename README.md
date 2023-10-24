@@ -1,5 +1,5 @@
 <h1>Hi there ! 👋 </h1>
-<p> I am Maicon. I am currently working in support, and I am currently focused on transitioning into the field of development. I am learning TypeScript and Python, while also honing my skills in Java.</p>
+<p> I am Maicon. I am currently working in support, but currently focused on transitioning into the field of development. I am learning TypeScript and Python, while also honing my skills in Java.</p>
 <span>Cheers!</span>
 
 
